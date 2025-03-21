@@ -25,6 +25,15 @@
 
 .content__description > p{
   margin-top: 20px;
-  color: rgb(198, 197, 197);
+  margin-left: 200px;
+  margin-right: 200px;
+  color: white;
   align-items: center;
+}
+
+.content__description > a{
+  margin-left: 47%;
+  width: 0%;
+  align-items: center;
+  align-content: center;
 }
